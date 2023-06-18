@@ -1,0 +1,28 @@
+############### Section config ##################
+#################################################
+title = "Tech Experience"
+enabled = true # false
+
+############### Technologies ####################
+#################################################
+# Technology I have worked with
+# name = "./.../../icon_path"
+[technologies]
+python = "./config/assets/icons/python.svg"
+pycharm = "./config/assets/icons/pycharm.svg" 
+jupyter = "./config/assets/icons/jupyter.svg"
+rstudio = "./config/assets/icons/rstudio.svg" 
+sql = "./config/assets/icons/sql.svg"
+postgresql = "./config/assets/icons/postgresql.svg"
+mysql = "./config/assets/icons/mysql.svg"
+mongodb = "./config/assets/icons/mongodb.svg"
+firebase = "./config/assets/icons/firebase.svg"
+tensorflow = "./config/assets/icons/tensorflow.svg"
+pytorch = "./config/assets/icons/pytorch.svg"
+scikit-learn  =  "./config/assets/icons/scikitlearn.svg" 
+hadoop = "./config/assets/icons/hadoop.svg"
+pandas = "./config/assets/icons/pandas.svg"
+numpy = "./config/assets/icons/numpy.svg"
+git = "./config/assets/icons/git.svg"
+tableau = "./config/assets/icons/tableau.svg"
+powerbi = "./config/assets/icons/powerbi.svg"

@@ -1,0 +1,37 @@
+#Categories
+#categorie 1 = Mobile development
+#categorie 2 = Python Scripting
+#categorie 3 = Web design
+#categorie 4 = Applications
+#categorie 5 = Web development
+
+[[project]]
+title = "????"
+category = "Category 1"
+image = "./assets/images/bck.jpg"
+url = ""
+
+[[project]]
+title = "????"
+category = "Category 2"
+image = "./assets/images/bck.jpg"
+url = ""
+
+
+[[project]]
+title = "????"
+category = "Category 3"
+image = "./assets/images/bck.jpg"
+url = ""
+
+[[project]]
+title = "????"
+category = "Category 4"
+image = "./assets/images/bck.jpg"
+url = ""
+
+[[project]]
+title = "????"
+category = "Category 5"
+image = "./assets/images/bck.jpg"
+url = ""

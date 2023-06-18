@@ -1,0 +1,19 @@
+[[doing]]
+title = "Data Science and Analytics"
+icon = "./config/assets/icons/analytics.svg"
+text = "Mastery of Data Science for insightful analysis."
+
+[[doing]]
+title = "Programming"
+icon = "./config/assets/icons/code.svg"
+text = "Proficiency in programming and analytical tools."
+
+[[doing]]
+title = "Analytical Thinking"
+icon = "./config/assets/icons/analyticalthk.svg"
+text = "Analytical thinking for effective problem-solving."
+
+[[doing]]
+title = "Database Management"
+icon = "./config/assets/icons/database.svg"
+text = "Database management expertise for data handling."

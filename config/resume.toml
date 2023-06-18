@@ -1,0 +1,70 @@
+############## Education config #################
+#################################################
+[[education]]
+title = "Technological University of Peru"
+timeline = "2019 — Present"
+description = "Professional training at the Technological University of Peru, learning programming and technological skills"
+
+[[education]]
+title = "Tecsup"
+timeline = "2020 — 2021"
+description = "Technical training, taking programming courses and analysis of project creation"
+
+
+############## Experience config ################
+#################################################
+[[experience]]
+title = "in progress"
+timeline = "??-??"
+description = ".."
+
+[[experience]]
+title = "in progress"
+timeline = "??-??"
+description = ".."
+
+[[experience]]
+title = "in progress"
+timeline = "??-??"
+description = ".."
+
+
+############## Skills config ####################
+#################################################
+[skills] 
+title = "My Skills"
+enabled = true
+show_bar = true
+show_value = true
+
+[[skill]]
+title = "Data Analysis"
+value = "85%"
+
+[[skill]]
+title = "Programming and data manipulation"
+value = "70%"
+
+[[skill]]
+title = "Data Visualization"
+value = "90%"
+
+[[skill]]
+title = "Analytical thinking"
+value = "80%"
+
+############## Language config ##################
+#################################################
+[languages]
+title = "Languages"
+enabled = true
+show_bar = true
+show_value = true
+
+[[language]]
+title = "Ingles"
+value = "80%"
+
+[[language]]
+title = "French"
+value = "5%"
