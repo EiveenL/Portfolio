@@ -1,10 +1,10 @@
 [[post]]
-category = "EJM"
-title = "In Progress"
-subtitle = "Veritatis et quasi architecto beatae vitae dicta sunt, explicabo."
-datetime = "2022-02-23"
-image = "./assets/images/bck.jpg"
-url = ""
+category = "Informative Blog"
+title = "Data Scientist Job"
+subtitle = "How to stand out in a crowded job market"
+datetime = "2023-07-07"
+image = "./config/assets/projects/blog1.jpg"
+url = "https://medium.com/@ptumayr/data-scientist-job-15c332b242b5"
 
 [[post]]
 category = "EJM"
