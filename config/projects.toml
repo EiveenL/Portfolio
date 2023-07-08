@@ -1,6 +1,6 @@
 #Categories
 #categorie 1 = Mobile development
-#categorie 2 = Python Scripting
+#categorie 2 = Python Scripting   /  Predictive models
 #categorie 3 = Web design
 #categorie 4 = Applications
 #categorie 5 = Web development
@@ -12,17 +12,17 @@ image = "./assets/images/bck.jpg"
 url = ""
 
 [[project]]
-title = "????"
-category = "Category 2"
-image = "./assets/images/bck.jpg"
-url = ""
+title = "Heart Attack Predictive Models"
+category = "Predictive models"  #Category 2
+image = "config/assets/posts/heartattack.jpg"
+url = "https://www.kaggle.com/code/israelexe/heart-attack-eda-prediction-90-accuracy?scriptVersionId=134202649"
 
 
 [[project]]
-title = "????"
-category = "Category 3"
-image = "./assets/images/bck.jpg"
-url = ""
+title = "E-commerce analysis"
+category = "Data Analytics"
+image = "config/assets/posts/e-commerce.png"
+url = "https://www.kaggle.com/code/israelexe/e-commerce?scriptVersionId=134446175"
 
 [[project]]
 title = "????"
