@@ -5,33 +5,58 @@
 #categorie 4 = Applications
 #categorie 5 = Web development
 
+
 [[project]]
-title = "????"
-category = "Category 1"
-image = "./assets/images/bck.jpg"
-url = ""
+title = "Predictive models for a car dealership in Argentina"
+category = "Predictive models"
+image = "config/assets/posts/predicpricescar.png"
+url = "https://www.kaggle.com/code/israelexe/predictive-models-for-a-car-dealership-in-argentin/notebook?scriptVersionId=139674854"
 
 [[project]]
 title = "Heart Attack Predictive Models"
 category = "Predictive models"  #Category 2
 image = "config/assets/posts/heartattack.jpg"
-url = "https://www.kaggle.com/code/israelexe/heart-attack-eda-prediction-90-accuracy?scriptVersionId=134202649"
+url = "https://www.kaggle.com/code/israelexe/heart-attack"
 
 
 [[project]]
 title = "E-commerce analysis"
 category = "Data Analytics"
 image = "config/assets/posts/e-commerce.png"
-url = "https://www.kaggle.com/code/israelexe/e-commerce?scriptVersionId=134446175"
+url = "https://www.kaggle.com/code/israelexe/e-commerce/notebook?scriptVersionId=134449582"
+
+[[project]]
+title = "Data analysis of an Argentine dealership"
+category = "Data Analytics"
+image = "config/assets/posts/concesionaria.jpg"
+url = "https://www.kaggle.com/code/israelexe/data-analysis-of-an-argentine-dealership?scriptVersionId=139674731"
+
+[[project]]
+title = "Move Detector"
+category = "IA Aplications"
+image = "config/assets/posts/movedetector.jpg"
+url = "https://github.com/EiveenL/Move-detector"
+
+[[project]]
+title = "IA Rocket Game - RT"
+category = "IA Aplications"
+image = "config/assets/posts/IA-game.png"
+url = "https://github.com/EiveenL/IA-Game-RT/tree/5044ba6da6f169c11558da909510e115102e710f/juego-python-ia-misiles"
+
+[[project]]
+title = "Informative dashboard for data analysis of a dealership"
+category = "Dashboards"
+image = "config/assets/posts/carpricesdash.png"
+url = "https://app.powerbi.com/view?r=eyJrIjoiY2JlY2Y0NjYtZmE5Yy00YmVlLTg3NzktOGRlMjM5ZGU2ZTI3IiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9"
 
 [[project]]
 title = "????"
-category = "Category 4"
+category = "Extras"
 image = "./assets/images/bck.jpg"
 url = ""
 
 [[project]]
 title = "????"
-category = "Category 5"
+category = "Python Aplications"
 image = "./assets/images/bck.jpg"
 url = ""
