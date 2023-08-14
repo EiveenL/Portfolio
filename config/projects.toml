@@ -40,7 +40,7 @@ url = "https://github.com/EiveenL/Move-detector"
 [[project]]
 title = "IA Rocket Game - RT"
 category = "IA Aplications"
-image = "config/assets/posts/IA-game.png"
+image = "config/assets/posts/cohete.jpg"
 url = "https://github.com/EiveenL/IA-Game-RT/tree/5044ba6da6f169c11558da909510e115102e710f/juego-python-ia-misiles"
 
 [[project]]
