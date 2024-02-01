@@ -50,13 +50,26 @@ image = "config/assets/posts/carpricesdash.png"
 url = "https://app.powerbi.com/view?r=eyJrIjoiY2JlY2Y0NjYtZmE5Yy00YmVlLTg3NzktOGRlMjM5ZGU2ZTI3IiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9"
 
 [[project]]
+title = "Car price prediccition"
+category = "Python Aplications"
+image = "config/assets/posts/concesionaria.jpg"
+url = "https://car-price-prediction-itd.streamlit.app/"
+
+[[project]]
+title = "Background remove"
+category = "Python Aplications"
+image = "config/assets/posts/bckremover.png"
+url = "https://bck-remove-5rlvvjiegfyx3gxt6pcak9.streamlit.app/"
+
+[[project]]
+title = "Informative dashboard for data analysis of startup"
+category = "Dashboards"
+image = "config/assets/posts/startupdash.png"
+url = "https://app.powerbi.com/view?r=eyJrIjoiY2Q1MDQ2ZTMtY2NmNi00OGE2LTlmZTQtYzhiNzY0YjQ3ZjhmIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9"
+
+[[project]]
 title = "????"
 category = "Extras"
 image = "./assets/images/bck.jpg"
 url = ""
 
-[[project]]
-title = "????"
-category = "Python Aplications"
-image = "./assets/images/bck.jpg"
-url = ""
